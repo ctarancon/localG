@@ -3,7 +3,7 @@
  */
 package BibliotecaVIU_Negocio;
 
-/**
+/** 
  * Clase que contiene las reglas de negocio
  */
 public class ReglasNegocio {

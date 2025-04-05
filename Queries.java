@@ -3,7 +3,7 @@
  */
 package BibliotecaVIU_Datos;
 
-/**
+/** 
  * Clase para almacenar las sentencias SQL de la biblioteca VIU de tipo consulta
  */
 public class Queries {

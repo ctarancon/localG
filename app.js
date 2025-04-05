@@ -8,7 +8,7 @@ import BibliotecaVIU_Datos.GestionBBDD;
 import BibliotecaVIU_Datos.Queries;
 import java.sql.SQLException;
 import java.sql.ResultSet;
-import java.util.ArrayList;
+import java.util.ArrayList; 
 
 /**
  * Clase que maneja el catálogo de libros
