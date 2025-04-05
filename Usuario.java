@@ -5,7 +5,7 @@ package BibliotecaVIU_Negocio;
 
 /**
  * Clase DTO para manejar al usuario
- */
+ */ 
 public class Usuario {
     private String nombre;
     private String idUsuario;

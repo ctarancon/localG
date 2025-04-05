@@ -2,7 +2,7 @@
  * Paquete que contiene las clase de presentación
  */
 package BibliotecaVIU_Negocio;
-
+ 
 /**
  * Clase para almacenar constantes del programa
  */
