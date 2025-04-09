@@ -2,7 +2,7 @@
 /**  
  * Paquete que contiene las clases de negocio
  */ 
-package BibliotecaVIU_Negocio;
+package BibliotecaVIU_Negocio;  
 
 import BibliotecaVIU_Datos.GestionBBDD;
 import BibliotecaVIU_Datos.Queries;
